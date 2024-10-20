@@ -7,7 +7,14 @@ Por tiempo no pude hacer los anteriores ;(
 
 Pero estoy de vuelta
 
+Imagen del desplegado funcionando:
+![image](https://github.com/user-attachments/assets/3d887062-660b-4200-a986-b02be844fc6d)
 
+Me tocó hacer un par de cambios en el purto del dockerfile y en la entrada de conexiones del index.js porque no me estabada dejando acceder.
+
+Foto de la terminal de la vm:
+
+![image](https://github.com/user-attachments/assets/351cea1a-f37d-43ec-89af-8427b114c5f1)
 
 
 suuuuuuuuuu
@@ -54,15 +61,3 @@ suuuuuuuuuu
 ⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⡿⣥⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢦⣶⡒⢶⡞⠢⣄⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣠⣾⣛⡏⡻⣳⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢿⣿⣿⣾⢷⣿⣿⣶⣯⡿⢆⡀
 ⠀⠀⠀⠀⠀⠀⠉⠉⠚⠚⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠦⠿⠿⠿⠿⠿⠿⠿⠿⠷⠷⠾
-
-
-Imagen del desplegado funcionando:
-![image](https://github.com/user-attachments/assets/3d887062-660b-4200-a986-b02be844fc6d)
-
-Me tocó hacer un par de cambios en el purto del dockerfile y en la entrada de conexiones del index.js porque no me estabada dejando acceder.
-
-Foto de la terminal de la vm:
-
-![image](https://github.com/user-attachments/assets/351cea1a-f37d-43ec-89af-8427b114c5f1)
-
-
