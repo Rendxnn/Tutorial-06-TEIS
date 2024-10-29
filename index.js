@@ -23,6 +23,11 @@ const phrases = [
 
 "Alone or not you gonna walk forward.",
 
+"El que tenga miedo morir que no nazca",
+
+"siuuuuuuuuu",
+
+"le robaron el balon de oro a vini"
 ]
 
 
