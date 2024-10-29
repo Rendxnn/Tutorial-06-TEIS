@@ -1,6 +1,8 @@
-Tuto 6
+Tuto 6 - 7
 
 Samuel Rendon Trujillo
+
+Nota: Para el 7 hice un commit dizque para añadir frases... pero no cambié el límite del generador del indice ajajajajaj. Un pendejo
 
 Por tiempo no pude hacer los anteriores ;(
 
